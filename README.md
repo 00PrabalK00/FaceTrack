@@ -20,7 +20,6 @@
     <ul>
         <li>Python 3.x</li>
         <li>OpenCV for Python</li>
-        <li>pyfirmata (for Arduino communication in Python)</li>
         <li>Arduino IDE</li>
         <li>Servo library (for Arduino servo control)</li>
     </ul>
@@ -29,7 +28,7 @@
         <li>Clone the repository:</li>
         <pre><code>git clone https://github.com/your-username/face-detection-servo-control.git</code></pre>
         <li>Install the required Python packages:</li>
-        <pre><code>pip install opencv-python pyfirmata</code></pre>
+        <pre><code>pip install opencv-python </code></pre>
     </ol>
     <h2>Usage</h2>
     <ol>
