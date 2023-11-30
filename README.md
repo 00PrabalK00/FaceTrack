@@ -53,7 +53,6 @@
         <li>Face detection using OpenCV: <a href="https://opencv.org/">OpenCV</a></li>
         <li>Servo control with Arduino: <a href="https://www.arduino.cc/">Arduino</a></li>
     </ul>
-    <p>Feel free to customize this README according to your project's specific details and requirements.</p>
 
 </body>
 
