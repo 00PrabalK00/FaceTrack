@@ -10,11 +10,13 @@
 
 <body>
     <h1>Face Detection and Servo Control</h1>
-        <img src=/Images/ezgif-5-33003841ff.gif" alt="Face Detection" width="300" height="200">
+        <img src=Images/ezgif-5-33003841ff.gif" alt="Face Detection" width="300" height="200">
     <p>This project combines face detection using OpenCV in Python and servo control with Arduino to create a simple
         interactive system. The Python code captures webcam frames, detects faces, calculates forehead coordinates, and
         sends the data to the Arduino through serial communication. The Arduino code receives the data and controls two
         servo motors to track the detected face.</p>
+         <img src=Images/image_2023-11-30_231031386.png" alt="Face Detection" width="300" height="200">
+
     <h2>Getting Started</h2>
     <h3>Prerequisites</h3>
     <ul>
