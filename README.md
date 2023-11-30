@@ -5,11 +5,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Face Detection and Servo Control</title>
+    <h1>Face Detection and Servo Control</h1>
 </head>
 
 <body>
-    <h1>Face Detection and Servo Control</h1>
         <img src="/Images/ezgif-5-33003841ff.gif" >
     <p>This project combines face detection using OpenCV in Python and servo control with Arduino to create a simple
         interactive system. The Python code captures webcam frames, detects faces, calculates forehead coordinates, and
