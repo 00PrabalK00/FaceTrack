@@ -46,8 +46,6 @@
         <li>Modify the Arduino code if you change the pins used for servo control.</li>
         <li>Adjust Python script parameters for webcam resolution, serial port, and face detection settings.</li>
     </ul>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
     <h2>Acknowledgments</h2>
     <ul>
         <li>Face detection using OpenCV: <a href="https://opencv.org/">OpenCV</a></li>
