@@ -26,7 +26,7 @@
     <h3>Installation</h3>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/your-username/face-detection-servo-control.git</code></pre>
+        <pre><code>git clone https://github.com/00PrabalK00/face-detection-servo-control.git</code></pre>
         <li>Install the required Python packages:</li>
         <pre><code>pip install opencv-python </code></pre>
     </ol>
